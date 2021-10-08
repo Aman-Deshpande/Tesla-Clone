@@ -83,6 +83,6 @@
   justify-content: flex-end;
 }
 
-.close__nav .icon {
+.close__nav > .icon {
   cursor: pointer;
 }
